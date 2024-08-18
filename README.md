@@ -1,4 +1,5 @@
 # Todo-List-React-
+1ST TUTORIAL PROJECT FOR LEARNING REACT
 A simple to do list using REACT + VITE
 
 P.S
